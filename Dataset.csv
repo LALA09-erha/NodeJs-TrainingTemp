@@ -1,0 +1,453 @@
+No,Desa/Kelurahan,Kecamatan,Luas total area,Jarak ke ibu kota kecamatan ,Jarak ke ibu kota kabupaten ,Akomodasi. hotel. homestay,Restourant/Tempat makan,Jenis prasarana trasportasi,Jenis permukaan  jalan darat,Jumlah Menara Telepon Seluler,Media Online,Pantai/Danau,Failitas,Harga Tiket,Rating,Wisman,Wisnus
+1,Pandan Lanjang,Arosbaya,1.36,2,12,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+2,Batonaong,Arosbaya,5.13,8,20,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+3,Glagga,Arosbaya,6.14,6,23,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+4,Ombul,Arosbaya,3.98,5,22,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+5,Balung,Arosbaya,3.61,4,16,0,0,Darat,Diperkeras (kerikil. batu. dll),1,Tidak Ada,0,1,0,0,0,0
+6,Lajing,Arosbaya,6.72,2,12,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,1,0,0,0,0
+7,Tengket,Arosbaya,3.49,2,16,0,1,Darat,Aspal/Beton,2,Tidak Ada,0,1,0,0,0,0
+8,Arosbaya,Arosbaya,1.83,1,17,0,1,Darat,Aspal/Beton,3,Tidak Ada,0,1,0,0,0,0
+9,Karang Duwak,Arosbaya,4.27,4,22,0,0,Darat,Diperkeras (kerikil. batu. dll),0,Tidak Ada,0,1,0,0,0,0
+10,Dlemer,Arosbaya,1.32,2,20,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+11,Mangkon,Arosbaya,0.35,2,19,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,1,0,0,0,0
+12,Berbeluk,Arosbaya,2.54,3,20,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,1,0,0,0,0
+13,Cendagah,Arosbaya,1.36,3,19,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,1,0,0,0,0
+14,Karang Pao,Arosbaya,5.13,2,19,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+15,Makam Agung,Arosbaya,6.14,3,14,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,1,0,0,0,0
+16,Plakaran,Arosbaya,3.98,1,13,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,1,0,0,0,0
+17,Buduran,Arosbaya,3.61,2,19,0,1,Darat,Aspal/Beton,1,Ada,2,3,30.000,4,0,1.750
+18,Tambegan,Arosbaya,6.72,2,20,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+19,Ujung Piring,Bangkalan,3.43,9,7,0,0,Darat,Aspal/Beton,1,Ada,1,3,10.000,4,0,978
+20,Sembilangan,Bangkalan,"45.537,00",9,8,0,0,Darat,Aspal/Beton,2,Ada,1,2,3.000,4,0,1.606
+21,Kramat,Bangkalan,4.22,9,8,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+22,Mertajasah,Bangkalan,0.91,4,2,1,1,Darat,Aspal/Beton,1,Ada,1,3,2.000,5,50,607.682
+23,Mlajah,Bangkalan,6.00,5,1,0,6,Darat,Aspal/Beton,4,Ada,4,2,2.000,4,0,29.862
+24,Kemayoran,Bangkalan,1.62,2,1,1,3,Darat,Aspal/Beton,3,Ada,5,1,30.000,5,0,969
+25,Pangeranan,Bangkalan,1.65,1,5,0,0,Darat,Aspal/Beton,1,Ada,1,2,10.000,4,0,3.212
+26,Demangan,Bangkalan,0.55,1,2,2,2,Darat,Aspal/Beton,1,Ada,5,3,2.000,4,4,23.474
+27,Keraton,Bangkalan,"45.413,00",1,6,2,3,Darat,Aspal/Beton,2,Ada,1,4,15.000,5,0,607.682
+28,Pejagan,Bangkalan,1.34,2,4,4,1,Darat,Aspal/Beton,5,Ada,5,2,18.000,5,0,626.016
+29,Bancaran,Bangkalan,5.89,5,7,0,3,Darat,Aspal/Beton,4,Ada,2,4,30.000,4,0,3.212
+30,Sabiyan,Bangkalan,2.38,6,8,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+31,Gebang,Bangkalan,3.31,6,8,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+32,Gigir,Blega,8.16,7,38,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+33,Ko'Olan,Blega,3.28,6,43,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+34,Pangeran Gedungan,Blega,3.62,5,42,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+35,Panjalinan,Blega,3.57,4,45,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+36,Rosep,Blega,3.28,2,42,0,2,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+37,Kampao,Blega,"45.384,00",4,39,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+38,Lombang Laok,Blega,2.67,4,40,0,1,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+39,Lombang Daya,Blega,9.50,6,37,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+40,Karpote,Blega,5.71,2,38,0,1,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+41,Blegaoloh,Blega,1.44,3,40,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+42,Karang Gayam,Blega,4.84,4,45,1,3,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+43,Lomaer,Blega,6.14,5,45,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+44,Bates,Blega,5.28,6,53,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+45,Karang Panasan,Blega,2.69,3,44,0,3,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+46,Karangnangka,Blega,4.28,3,42,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+47,Blega,Blega,7.00,1,39,0,9,Darat,Aspal/Beton,4,Tidak Ada,0,0,0,0,0,0
+48,Nyor Manis,Blega,5.39,2,42,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+49,Alasraja,Blega,8.59,4,43,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+50,Kajan,Blega,5.35,7,2,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+51,Burneh,Burneh,7.56,1,6,0,5,Darat,Aspal/Beton,1,Ada,3,1,25.000,4,0,2.322
+52,Tonjung,Burneh,7.91,1,6,0,5,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+53,Jambu,Burneh,2.34,2,8,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+54,Langkap,Burneh,6.26,2,7,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+55,Benangkah,Burneh,10.47,3,9,0,1,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+56,Kapor,Burneh,3.65,3,8,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+57,Arok,Burneh,1.71,3,8,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+58,Sobih,Burneh,45.569.00,4,12,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+59,Pangolangan,Burneh,5.40,6,11,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+60,Perreng,Burneh,45.509.00,7,13,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+61,Alas Kembang,Burneh,4.81,8,13,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+62,Binoh,Burneh,5.82,8,14,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+63,Pekadan,Galis,4.41,6,32,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+64,Kajuanak,Galis,5.37,5,30,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+65,Paterongan,Galis,4.34,2,28,0,0,Darat,Aspal/Beton,5,Tidak Ada,0,0,0,0,0,0
+66,Galis,Galis,3.89,1,27,0,0,Darat,Aspal/Beton,4,Tidak Ada,0,0,0,0,0,0
+67,Paka'An Laok,Galis,"45.295,00",3,28,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+68,Kranggan Timur,Galis,2.65,6,26,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+69,Separah,Galis,3.94,5,23,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+70,Pakaandaya,Galis,1.59,3,28,0,1,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+71,Longkek,Galis,5.13,3,27,0,0,Darat,Aspal/Beton,3,Tidak Ada,0,0,0,0,0,0
+72,Banyubunih,Galis,9.83,3,25,0,1,Darat,Aspal/Beton,0,Ada,1,4,2.000,4,0,1.217
+73,Daleman,Galis,7.99,5,36,0,0,Darat,Aspal/Beton,2,Ada,1,2,5.000,4,0,979
+74,Tellok,Galis,9.55,9,36,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+75,Belateran,Galis,2.37,9,38,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+76,Kelbung,Galis,12.86,12,37,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+77,Telagah,Galis,7.16,11,33,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+78,Lantek Temor,Galis,5.52,6,27,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+79,Lantek Barat,Galis,9.22,7,32,0,1,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+80,Banjar,Galis,10.24,11,30,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+81,Bangpendah,Galis,2.22,9,34,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+82,Sadah,Galis,4.41,14,28,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+83,Sorpa,Galis,1.44,15,30,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+84,Togubang,Geger,12.21,2,38,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+85,Lerpak,Geger,14.82,21,45,0,0,Darat,Diperkeras (kerikil. batu. dll),1,Tidak Ada,0,0,0,0,0,0
+86,Geger,Geger,17.20,10,39,0,0,Darat,Aspal/Beton,2,Ada,2,2,10.000,4,0,3.236
+87,Batobella,Geger,8.62,5,24,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+88,Tegerpriyah,Geger,3.66,4,24,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+89,Campor,Geger,6.93,1,17,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+90,Kompol,Geger,4.44,2,25,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+91,Kampak,Geger,10.98,3,27,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+92,Kombangan,Geger,11.53,5,35,0,0,Darat,Aspal/Beton,4,Tidak Ada,0,0,0,0,0,0
+93,Dabung,Geger,10.62,14,30,0,0,Darat,Diperkeras (kerikil. batu. dll),1,Tidak Ada,0,0,0,0,0,0
+94,Katol Barat,Geger,7.33,8,45,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+95,Banyoneng Laok,Geger,"45.393,00",9,45,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+96,Banyoneng Dajah,Geger,5.28,7,35,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+97,Tajungan,Kamal,0.08,2,18,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+98,Gili Barat,Kamal,4.80,1,18,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+99,Banyu Ajuh,Kamal,"45.600,00",1,18,0,2,Darat,Aspal/Beton,4,Tidak Ada,0,0,0,0,0,0
+100,Kamal,Kamal,1.14,3,18,1,2,Darat,Aspal/Beton,3,Ada,1,4,15.000,4,0,2.301
+101,Tanjung Jati,Kamal,0.40,3,18,0,1,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+102,Kebun,Kamal,3.37,2,18,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+103,Gili Timur,Kamal,7.43,1,12,0,0,Darat,Aspal/Beton,3,Ada,1,1,7.000,4,0,2.301
+104,Gili Anyar,Kamal,2.93,1,17,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+105,Tellang,Kamal,9.72,5,10,0,1,Darat,Aspal/Beton,4,Tidak Ada,0,0,0,0,0,0
+106,Pendabah,Kamal,7.42,7,10,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+107,Tolbuk,Klampis,1.33,6,16,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+108,Ra'As,Klampis,0.77,5,13,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+109,Muarah,Klampis,3.34,6,12,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+110,Polongan,Klampis,1.56,4,20,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+111,Karang Asem,Klampis,"45.413,00",3,20,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+112,Bantean,Klampis,"45.328,00",7,19,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+113,Bragang,Klampis,"45.480,00",6,30,0,0,Darat,Aspal/Beton,3,Tidak Ada,0,0,0,0,0,0
+114,Lergunong,Klampis,4.36,6,31,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+115,Panyaksagan,Klampis,5.29,4,33,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+116,Larangan Glintong,Klampis,5.90,1,27,0,0,Darat,Aspal/Beton,3,Tidak Ada,0,0,0,0,0,0
+117,Manonggal,Klampis,3.46,4,33,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+118,Larangan Sorjan,Klampis,1.60,3,27,0,0,Darat,Aspal/Beton,4,Tidak Ada,0,0,0,0,0,0
+119,Tenggun Daya,Klampis,4.57,3,25,0,0,Darat,Aspal/Beton,4,Tidak Ada,0,0,0,0,0,0
+120,Bulung,Klampis,7.74,7,17,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+121,Trogan,Klampis,1.57,3,15,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+122,Ko'ol,Klampis,1.65,5,15,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+123,Tobaddung,Klampis,1.50,7,21,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+124,Mrandung,Klampis,2.82,3,13,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+125,Buluk Agung,Klampis,5.89,2,17,0,0,Darat,Aspal/Beton,3,Tidak Ada,0,0,0,0,0,0
+126,Bator,Klampis,2.41,1,25,0,5,Darat,Aspal/Beton,2,Ada,1,3,2.000,4,0,1.892
+127,Klampis Barat,Klampis,0.13,1,18,0,1,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+128,Klampis Timur,Klampis,0.07,1,24,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+129,Lembung Gunung,Kokop,4.68,8,52,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+130,Ampara'an,Kokop,5.18,10,60,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+131,Kokop,Kokop,8.32,9,59,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+132,Tlokoh,Kokop,13.14,14,64,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+133,Durjan,Kokop,18.89,23,73,0,0,Darat,Aspal/Beton,1,Ada,1,3,7.000,4,0,969
+134,Mano'An,Kokop,9.77,17,52,0,0,Darat,Aspal/Beton,3,Tidak Ada,0,0,0,0,0,0
+135,Mandung,Kokop,13.62,14,64,0,0,Darat,Aspal/Beton,3,Tidak Ada,0,0,0,0,0,0
+136,Bandang Laok,Kokop,12.52,4,54,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+137,Tramok,Kokop,"45.301,00",5,55,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+138,Katol Timur,Kokop,11.52,7,57,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+139,Banda Soleh,Kokop,4.74,2,52,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+140,Dupok,Kokop,10.00,1,50,0,0,Darat,Aspal/Beton,3,Tidak Ada,0,0,0,0,0,0
+141,Batokorogan,Kokop,3.36,4,50,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+142,Galis Daya,Konang,3.16,14,36,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+143,Durin Barat,Konang,6.59,12,42,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+144,Kanegarah,Konang,"45.324,00",14,38,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+145,Batokaban,Konang,"45.546,00",20,48,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+146,Durin Timur,Konang,20.21,10,36,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+147,Pakes,Konang,5.68,3,40,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+148,Bandung,Konang,6.22,1,56,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+149,Konang,Konang,7.15,1,47,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+150,Senasen,Konang,4.29,5,60,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+151,Campor,Konang,1.76,4,50,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+152,Sambiyan,Konang,"45.415,00",8,57,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+153,Cangkarman,Konang,5.20,13,59,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+154,Genteng,Konang,13.44,8,59,0,0,Darat,Aspal/Beton,1,Ada,1,2,10.000,4,0,2.301
+155,Tebul,Kwanyar,2.24,5,19,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+156,Kwanyar Barat,Kwanyar,2.47,1,22,0,0,Darat,Aspal/Beton,0,Ada,1,4,20.000,3,0,1.538
+157,Pasanggrahan,Kwanyar,3.33,1,23,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+158,Karanganyar,Kwanyar,1.80,4,18,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+159,Batah Barat,Kwanyar,1.18,6,22,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+160,Batah Timur,Kwanyar,3.50,6,2,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+161,Duwek Buter,Kwanyar,3.94,6,27,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+162,Pandanan,Kwanyar,2.99,6,25,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+163,Karang Entang,Kwanyar,2.25,4,17,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+164,Janteh,Kwanyar,4.20,2,21,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+165,Dlemer,Kwanyar,2.78,1,25,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+166,Ketetang,Kwanyar,3.36,1,23,0,0,Darat,Aspal/Beton,2,Ada,2,3,2.000,4,0,1.558
+167,Morombuh,Kwanyar,2.95,3,25,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+168,Sumur Kuning,Kwanyar,4.44,3,25,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+169,Paoran,Kwanyar,3.35,5,25,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+170,Gunung Sereng,Kwanyar,3.16,8,25,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+171,Kesek,Labang,1.72,2,22,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+172,Pangpong,Labang,2.18,4,21,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+173,Sukolilo Barat,Labang,1.76,1,20,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+174,Sukolilo Timur,Labang,2.15,1,21,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+175,Bunajih,Labang,4.68,1,22,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+176,Bringin,Labang,2.67,3,23,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+177,Ba'Engas,Labang,3.57,2,20,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+178,Morkepek,Labang,2.21,3,18,0,1,Darat,Aspal/Beton,1,Ada,1,4,30.000,4,0,969
+179,Labang,Labang,1.82,3,20,0,10,Darat dan Air,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+180,Jukong,Labang,3.88,5,18,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+181,Sendang Laok,Labang,2.80,6,19,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+182,Sendang Daya,Labang,"45.355,00",7,18,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+183,Petapan,Labang,1.76,8,18,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+184,Pangpajung,Modung,4.26,3,35,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+185,Patereman,Modung,2.29,1,40,0,1,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+186,Kolla,Modung,5.17,4,44,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+187,Paeng,Modung,2.33,5,43,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+188,Neroh,Modung,"45.629,00",5,35,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+189,Serabi Timur,Modung,5.45,3,42,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+190,Serabi Barat,Modung,7.13,5,30,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+191,Patengteng,Modung,"45.395,00",5,40,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+192,Langpanggang,Modung,2.96,8,115,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+193,Suwaan,Modung,4.44,10,35,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+194,Modung,Modung,3.76,10,25,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+195,Brakas Dajah,Modung,3.27,13,26,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+196,Karanganyar,Modung,"45.631,00",11,25,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+197,Manggaan,Modung,8.37,15,30,0,0,Darat,Aspal/Beton,0,Ada,1,2,0,1,0,969
+198,Glisgis,Modung,3.52,15,30,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+199,Pakong,Modung,1.43,22,30,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+200,Alaskokon,Modung,3.25,22,1,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+201,Junganyar,Socah,0.85,2,9,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+202,Socah,Socah,1.15,1,5,0,1,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+203,Buluh,Socah,5.47,2,8,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+204,Jaddih,Socah,8.25,3,7,0,0,Darat,Aspal/Beton,3,Ada,2,4,25.000,4,0,4.767
+205,Sanggra Agung,Socah,6.52,7,12,0,0,Darat,Aspal/Beton,3,Tidak Ada,o,o,o,o,o,o
+206,Parseh,Socah,6.36,9,12,0,0,Darat,Aspal/Beton,3,Ada,1,3,20.000,4,0,1.003
+207,Bilaporah,Socah,10.50,4,3,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+208,Keleyan,Socah,6.35,2,5,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+209,Petaonan,Socah,4.46,2,6,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+210,Dakiring,Socah,3.31,4,11,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+211,Pernajuh,Socah,0.59,5,10,0,0,Darat,Aspal/Beton,1,Ada,1,2,3.000,4,0,1.606
+212,Pacentan,Tanah Merah,"45.327,00",6,15,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+213,Baipajung,Tanah Merah,"45.295,00",3,19,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+214,Tanah Merah Laok,Tanah Merah,4.17,2,19,0,0,Darat,Aspal/Beton,0,Ada,1,1,20.000,1,0,626.016
+215,Kranggan Barat,Tanah Merah,"45.325,00",3,20,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+216,Pangeleyan,Tanah Merah,0.71,2,17,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+217,Padurungan,Tanah Merah,1.89,2,17,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+218,Petrah,Tanah Merah,4.48,1,16,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+219,Tanah Merah Daya,Tanah Merah,3.88,1,15,0,0,Darat,Aspal/Beton,3,Tidak Ada,0,0,0,0,0,0
+220,Dumajah,Tanah Merah,3.29,3,14,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+221,Patemon,Tanah Merah,0.62,4,10,0,0,Darat,Aspal/Beton,1,Ada,1,3,12.000,4,0,978
+222,Tlomar,Tanah Merah,2.70,4,15,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+223,Kendaban,Tanah Merah,2.42,3,16,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+224,Jangkar,Tanah Merah,4.74,3,22,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+225,Pettong,Tanah Merah,4.63,8,21,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+226,Landak,Tanah Merah,2.30,10,29,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+227,Rongdurin,Tanah Merah,1.87,6,23,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+228,Batangan,Tanah Merah,5.70,11,15,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+229,Dlambah Dajah,Tanah Merah,3.84,9,16,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+230,Dlamba Laok,Tanah Merah,1.62,9,15,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+231,Mrecah,Tanah Merah,2.55,5,12,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+232,Buddan,Tanah Merah,2.76,8,10,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+233,Poter,Tanah Merah,1.65,6,12,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+234,Basanah,Tanah Merah,0.70,5,12,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+235,Planggiran,Tanjung Bumi,7.90,5,45,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+236,Tagungguh,Tanjung Bumi,10.48,10,46,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+237,Bandang Daya,Tanjung Bumi,6.18,13,43,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+238,Bungkeng,Tanjung Bumi,"45.630,00",10,48,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+239,Larangan Timur,Tanjung Bumi,"45.300,00",11,42,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+240,Tambak Pocok,Tanjung Bumi,5.14,10,50,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+241,Bumi Anyar,Tanjung Bumi,5.16,15,48,0,0,Darat,Aspal/Beton,6,Tidak Ada,0,0,0,0,0,0
+242,Paseseh,Tanjung Bumi,2.19,2,36,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+243,Telaga Biru,Tanjung Bumi,0.21,3,37,0,0,Darat,Aspal/Beton,3,Tidak Ada,0,0,0,0,0,0
+244,Tanjung Bumi,Tanjung Bumi,3.00,1,38,0,0,Darat,Aspal/Beton,1,Tidak Ada,1,2,0,1,0,2.322
+245,Macajah,Tanjung Bumi,4.67,4,44,0,0,Darat,Aspal/Beton,3,Ada,1,1,10.000,4,0,11.499
+246,Tlangoh,Tanjung Bumi,4.32,8,48,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+247,Banyu Sangkah,Tanjung Bumi,7.90,10,48,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+248,Aengtabar,Tanjung Bumi,10.48,10,43,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+249,Alang Alang,Tragah,2.34,2,13,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+250,Kemoneng,Tragah,"45.323,00",3,11,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+251,Soket Laok,Tragah,7.15,1,14,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+252,Bajeman,Tragah,4.37,3,17,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+253,Tambin,Tragah,2.96,2,13,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+254,Soket Daya,Tragah,"45.384,00",1,14,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+255,Keteleng,Tragah,1.44,1,13,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+256,Ja'ah,Tragah,1.54,3,12,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+257,Bancang,Tragah,0.76,3,12,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+258,Masaran,Tragah,4.64,2,12,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+259,Pacangan,Tragah,"45.292,00",4,12,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+260,Pocong,Tragah,1.26,2,10,0,0,Darat,Aspal/Beton,0,Ada,1,3,8.000,4,0,626.016
+261,Tragah,Tragah,4.74,2,10,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+262,Karang Leman,Tragah,4.63,1,12,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+263,Dukotambin,Tragah,2.30,1,13,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+264,Jaddung,Tragah,1.87,2,10,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+265,Banyu Bese,Tragah,5.70,2,15,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+266,Pamorah,Tragah,3.84,3,9,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+267,Bepelle,Robatal,5.28,8,19,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+268,Lepelle,Robatal,10.92,5,31,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+269,Robatal,Robatal,"45.605,00",4,30,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+270,Sawah tengah,Robatal,5.50,6,20,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+271,Torjunan,Robatal,7.34,2,24,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+272,Tragih,Robatal,45.480.00,2,27,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+273,Jelgung,Robatal,8.64,1,27,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+274,Gunung Rancak,Robatal,"45.486,00",7,33,0,0,Darat,Aspal/Beton,3,Tidak Ada,0,0,0,0,0,0
+275,Pandiyangan,Robatal,13.89,3,29,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+276,P.Mandangin,Sampang,1.23,18,17,38,2,Darat,Aspal/Beton,0,Ada,2,4,25.000,1,3,9.539
+277,Aeng Sareh,Sampang,5.43,8,6,1,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+278,Polagan,Sampang,6.69,2,2,1,3,Darat,Aspal/Beton,0,Ada,3,3,2.000,4,0,9.539
+279,Banyuanyar,Sampang,2.20,5,4,1,2,Darat,Aspal/Beton,1,Ada,2,4,40.000,5.0,0,1.999
+280,Gng Maddah,Sampang,9.17,5,5,0,1,Darat,Aspal/Beton,0,Ada,1,3,0,1,0,1.512
+281,Rong Tengah,Sampang,1.14,2,1,1,8,Darat,Aspal/Beton,0,Ada,8,3,20.000,5.0,0,2.532
+282,Karang Dalem,Sampang,2.87,1,1,1,2,Darat,Aspal/Beton,0,Ada,2,4,25.000,4,0,1.999
+283,Gunung Sekar,Sampang,4.13,1,1,1,6,Darat,Aspal/Beton,1,Ada,6,1,25.000,5.0,0,8.496
+284,Dalpenang,Sampang,"45.597,00",1,1,1,2,Darat,Aspal/Beton,0,Ada,2,5,35.000,4,0,9.539
+285,Paseyan,Sampang,2.94,3,3,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+286,Panggung,Sampang,4.83,6,6,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+287,Baruh,Sampang,3.31,8,7,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+288,Taman Sareh,Sampang,5.46,7,7,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+289,Pakalongan,Sampang,4.49,9,9,0,0,Darat,Aspal/Beton,4,Tidak Ada,0,0,0,0,0,0
+290,Tanggumong,Sampang,3.39,1,1,1,0,Darat,Aspal/Beton,3,Tidak Ada,0,0,0,0,0,0
+291,Kamoning,Sampang,2.45,6,6,6,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+292,Banyumas,Sampang,4.86,8,8,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+293,Pangelen,Sampang,5.89,9,9,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+294,Tobai Barat,Sokobanah,9.35,18,47,0,0,Darat,Aspal/Beton,5,Tidak Ada,0,0,0,0,0,0
+295,Tobai Tengah,Sokobanah,8.73,11,51,0,0,Darat,Aspal/Beton,4,Tidak Ada,0,0,0,0,0,0
+296,Tobai Timur,Sokobanah,"45.549,00",9,44,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+297,Bira Tengah,Sokobanah,11.29,6,61,0,2,Darat,Aspal/Beton,1,Ada,2,4,15.000,4,0,1.512
+298,Bira Timur,Sokobanah,10.86,8,62,0,1,Darat,Aspal/Beton,0,Ada,1,3,2.000,5,2,11.180
+299,Sokobanah Laok,Sokobanah,10.47,8,55,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+300,Tamberu Laok,Sokobanah,"45.329,00",15,62,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+301,Tamberu Daya,Sokobanah,11.17,11,66,0,1,Darat,Aspal/Beton,1,Ada,1,4,0,5.0,0,9.539
+302,Sokobanah Tengah,Sokobanah,12.28,6,67,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+303,Sokobanah Daya,Sokobanah,7.38,2,59,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+304,Tamberu Barat,Sokobanah,"45.509,00",3,62,0,1,Darat,Aspal/Beton,0,Ada,1,3,0,1,0,3.447
+305,Tamberu Timur,Sokobanah,0.79,5,67,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+306,Noreh,Sreseh,8.56,2,35,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+307,Labuhan,Sreseh,"45.515,00",1,37,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+308,Taman  ,Sreseh,6.96,5,45,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+309,Sreseh,Sreseh,6.36,6,49,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+310,Disanah,Sreseh,10.53,28,29,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+311,Marparan,Sreseh,8.57,6,34,0,0,Air,-,0,Tidak Ada,0,0,0,0,0,0
+312,Klobur,Sreseh,2.98,5,34,0,2,Darat,Aspal/Beton,0,Ada,2,5,2.000,4,0,28.370
+313,Labang,Sreseh,3.93,6,34,0,0,Darat,Aspal/Beton,4,Tidak Ada,0,0,0,0,0,0
+314,Bundah,Sreseh,2.22,9,30,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+315,Bangsah,Sreseh,2.77,12,31,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+316,Plasah,Sreseh,"45.386,00",12,31,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+317,Junok,Sreseh,3.94,14,33,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+318,Batorasang,Tambelangan,5.48,7,26,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+319,Karang Anyar,Tambelangan,8.40,3,21,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+320,Samaran,Tambelangan,10.47,1,23,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+321,Bringin,Tambelangan,4.71,6,30,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+322,Mambulu Barat,Tambelangan,7.17,6,30,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+323,Barung Gagah,Tambelangan,7.40,5,29,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+324,Tambelangan,Tambelangan,5.19,1,27,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+325,Somber,Tambelangan,10.26,2,28,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+326,Banjar Billah,Tambelangan,12.78,6,32,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+327,Birem,Tambelangan,"45.614,00",8,33,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+328,Dulang,Torjun,4.14,1,7,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+329,Patarongan,Torjun,4.36,3,5,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+330,Pangongsean,Torjun,5.73,3,4,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+331,Krampon,Torjun,2.48,3,8,0,0,Darat,Aspal/Beton,5,Tidak Ada,0,0,0,0,0,0
+332,Bringin Nonggal,Torjun,2.99,4,9,0,0,Darat,Aspal/Beton,4,Tidak Ada,0,0,0,0,0,0
+333,Torjunan,Torjun,3.62,1,6,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+334,Patapan,Torjun,5.29,4,6,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+335,Jeruk Porot,Torjun,"45.600,00",4,9,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+336,Kodak,Torjun,2.67,7,9,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+337,Kanjar,Torjun,1.98,7,9,0,0,Darat,Aspal/Beton,3,Tidak Ada,0,0,0,0,0,0
+338,Kara,Torjun,3.44,6,12,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+339,Tana Mera,Torjun,3.38,7,12,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+340,Olor,Banyuates,14.48,11,46,0,0,Darat,Kerikil. Batu. dll,0,Tidak Ada,0,0,0,0,0,0
+341,Planggaran Barat,Banyuates,5.50,9,36,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+342,Planggaran Timur,Banyuates,5.91,11,33,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+343,Tolang,Banyuates,10.39,15,33,0,0,Darat,Kerikil. Batu. dll,1,Tidak Ada,0,0,0,0,0,0
+344,Lar-lar,Banyuates,16.69,17,31,0,0,Darat,Kerikil. Batu. dll,1,Tidak Ada,0,0,0,0,0,0
+345,Tragah,Banyuates,14.22,9,42,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+346,Nagasareh,Banyuates,8.13,9,55,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+347,Tapaan,Banyuates,8.61,6,61,0,0,Darat,Kerikil. Batu. dll,0,Tidak Ada,0,0,0,0,0,0
+348,Terosan,Banyuates,10.66,9,63,0,0,Darat,lainnya,2,Tidak Ada,0,0,0,0,0,0
+349,Asem Jaran,Banyuates,6.67,6,60,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+350,Kambang Jeruk,Banyuates,3.78,3,58,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+351,Morbatoh,Banyuates,8.84,3,55,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+352,Montor,Banyuates,5.17,8,53,0,1,Darat,Aspal/Beton,2,Ada,1,3,5.000,5,0,1.999
+353,Tebanah,Banyuates,5.13,8,52,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+354,Nepa,Banyuates,2.47,6,48,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+355,Batioh,Banyuates,3.70,4,50,0,2,Darat,Aspal/Beton,1,Ada,2,2,5.000,4,8,28.370
+356,Masaran,Banyuates,3.83,1,52,0,0,Darat,lainnya,0,Tidak Ada,0,0,0,0,0,0
+357,Banyuates,Banyuates,"45.628,00",1,53,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+358,Jatra Timur,Banyuates,2.15,1,56,0,0,Darat,Aspal/Beton,4,Tidak Ada,0,0,0,0,0,0
+359,Trapang,Banyuates,2.58,3,58,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+360,Taddan,Camplong,4.76,3,8,0,2,Darat,Aspal/Beton,0,Ada,2,3,30.000,5.0,0,42.448
+361,Banjar Talela,Camplong,4.87,4,10,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+362,Tambaan,Camplong,3.84,1,12,1,1,Darat,Aspal/Beton,0,Ada,1,2,18.000,4,0,3.019
+363,Prajjan,Camplong,0.46,3,14,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+364,Dharma Camplong,Camplong,7.19,3,15,0,2,Darat,Kerikil. Batu. dll,2,Ada,2,3,15.000,4,6,42.448
+365,Batu Karang,Camplong,2.81,7,17,0,0,Darat,Aspal/Beton,4,Tidak Ada,0,0,0,0,0,0
+366,Sejati,Camplong,5.52,8,19,0,1,Darat,Kerikil. Batu. dll,3,Ada,1,1,35.000,4,0,1.512
+367,Dharma Tanjung,Camplong,1.90,8,19,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+368,Rabasan,Camplong,10.45,7,19,0,0,Darat,Kerikil. Batu. dll,2,Tidak Ada,0,0,0,0,0,0
+369,Banjar Tabulu,Camplong,8.66,3,15,0,0,Darat,Kerikil. Batu. dll,3,Tidak Ada,0,0,0,0,0,0
+370,Anggersek,Camplong,2.44,7,11,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+371,Madupat,Camplong,6.16,5,16,0,0,Darat,Aspal/Beton,4,Tidak Ada,0,0,0,0,0,0
+372,Pamolaan,Camplong,6.00,7,14,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+373,Plampaan,Camplong,4.88,12,24,0,0,Darat,Kerikil. Batu. dll,0,Tidak Ada,0,0,0,0,0,0
+374,Margantoko,Jrengik,3.81,7,20,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+375,Asem Nonggal,Jrengik,10.19,9,22,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+376,Majangan,Jrengik,3.37,5,15,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+377,Kalangan Prao,Jrengik,3.52,1,15,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+378,Asem Raja,Jrengik,5.23,5,14,0,0,Darat,Kerikil. Batu. dll,1,Tidak Ada,0,0,0,0,0,0
+379,Plakaran,Jrengik,1.93,6,10,0,0,Darat,Kerikil. Batu. dll,3,Tidak Ada,0,0,0,0,0,0
+380,Buler,Jrengik,4.39,8,18,0,0,Darat,Kerikil. Batu. dll,2,Tidak Ada,0,0,0,0,0,0
+381,Bancelok,Jrengik,"45.601,00",7,11,0,0,Darat,Kerikil. Batu. dll,1,Tidak Ada,0,0,0,0,0,0
+382,Mlaka,Jrengik,2.68,5,11,0,0,Darat,Kerikil. Batu. dll,3,Tidak Ada,0,0,0,0,0,0
+383,Jungkarang,Jrengik,7.99,4,15,0,0,Darat,Kerikil. Batu. dll,2,Tidak Ada,0,0,0,0,0,0
+384,Kotah,Jrengik,3.41,4,16,0,0,Darat,Aspal/Beton,4,Tidak Ada,0,0,0,0,0,0
+385,Jrengik,Jrengik,4.51,1,14,0,0,Darat,Aspal/Beton,4,Tidak Ada,0,0,0,0,0,0
+386,Taman,Jrengik,3.53,4,17,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+387,Panyepen,Jrengik,5.68,3,17,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+388,Bluuran,Karang penang,16.20,5,22,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+389,Tlambah,Karang penang,14.79,4,22,0,0,Darat,Kerikil. Batu. dll,2,Tidak Ada,0,0,0,0,0,0
+390,Gunung Kesan,Karang penang,17.93,7,32,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+391,Karang penang onjur,Karang penang,6.30,1,28,0,0,Darat,Kerikil. Batu. dll,3,Tidak Ada,0,0,0,0,0,0
+392,Bulmatet,Karang penang,7.49,6,32,0,0,Darat,Kerikil. Batu. dll,2,Tidak Ada,0,0,0,0,0,0
+393,Poreh,Karang penang,7.83,7,36,0,0,Darat,Kerikil. Batu. dll,0,Tidak Ada,0,0,0,0,0,0
+394,Karang penang oloh,Karang penang,13.74,4,31,0,0,Darat,Kerikil. Batu. dll,0,Tidak Ada,0,0,0,0,0,0
+395,Kramat,Kedungdung,2.49,3,10,0,1,Darat,Aspal/Beton,0,Ada,1,4,0,5,0,1.999
+396,Komis,Kedungdung,4.60,1,10,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+397,Banyukapah,Kedungdung,6.46,6,8,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+398,Rabasan,Kedungdung,6.90,3,13,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+399,Rahayu,Kedungdung,5.14,5,14,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+400,Muktesareh,Kedungdung,4.20,1,13,0,0,Darat,Aspal/Beton,3,Tidak Ada,0,0,0,0,0,0
+401,Bajrasokah,Kedungdung,"45.384,00",3,16,0,0,Darat,Aspal/Beton,3,Tidak Ada,0,0,0,0,0,0
+402,Nyeloh,Kedungdung,9.67,9,18,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+403,Banjar,Kedungdung,6.44,7,22,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+404,Ombul,Kedungdung,7.54,6,18,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+405,Pajeruan,Kedungdung,13.74,6,20,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+406,Kedungdung,Kedungdung,5.43,2,14,0,0,Darat,Aspal/Beton,3,Tidak Ada,0,0,0,0,0,0
+407,Batu poro barat,Kedungdung,11.56,3,15,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+408,Batu poro timur,Kedungdung,12.50,5,17,0,0,Darat,Kerikil. Batu. dll,0,Tidak Ada,0,0,0,0,0,0
+409,Gunung Eleh,Kedungdung,4.25,6,19,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+410,Daleman,Kedungdung,"45.357,00",4,16,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+411,Pasarenan,Kedungdung,6.49,5,18,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+412,Palenggiyen,Kedungdung,9.62,8,18,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+413,Paopale laok,Ketapang,16.62,7,48,0,0,Darat,Kerikil. Batu. dll,1,Tidak Ada,0,0,0,0,0,0
+414,Bunten Barat,Ketapang,7.61,6,43,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+415,Bunten Timur,Ketapang,7.86,9,46,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+416,Pancor,Ketapang,13.88,12,51,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+417,Karang Anyar,Ketapang,6.15,18,63,0,0,Darat,Kerikil. Batu. dll,2,Tidak Ada,0,0,0,0,0,0
+418,Pangereman,Ketapang,10.68,16,62,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+419,Bira Barat,Ketapang,9.75,19,58,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+420,Ketapang Timur,Ketapang,13.91,4,53,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+421,Ketapang Daya,Ketapang,9.21,1,47,1,1,Darat,Aspal/Beton,1,Ada,1,5,8.000,4,9,28.370
+422,Ketapang Laok,Ketapang,9.84,3,37,0,1,Darat,Aspal/Beton,0,Ada,1,4,28.000,4,0,1.512
+423,Ketapang Barat,Ketapang,5.48,1,39,0,2,Darat,Aspal/Beton,1,Ada,2,1,0,4,0,10.445
+424,Paopale Daya,Ketapang,5.82,6,43,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+425,Rabiyan,Ketapang,3.70,3,42,0,2,Darat,Aspal/Beton,2,Ada,2,2,5.000,4,0,6.903
+426,Banyu Sokah,Ketapang,4.77,6,45,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+427,Kebun Sareh,Omben,"45.602,00",10,10,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+428,Karang Nangger,Omben,2.55,6,12,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+429,Napolaok,Omben,1.25,7,13,0,1,Darat,Aspal/Beton,1,Ada,1,2,0,1,1,9.523
+430,Astapah,Omben,2.73,6,9,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+431,Gersempal,Omben,6.44,5,13,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+432,Meteng,Omben,7.68,5,19,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+433,Madulang,Omben,5.30,6,20,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+434,Kamondung,Omben,3.99,6,17,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+435,Tambak,Omben,14.77,3,22,0,2,Darat,Aspal/Beton,0,Ada,2,2,0,5,0,3.019
+436,Temoran,Omben,4.32,3,17,0,1,Darat,Aspal/Beton,1,Ada,1,3,2.000,0,0,1.512
+437,Omben,Omben,3.86,2,14,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+438,Sogiyan,Omben,5.98,4,12,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+439,Napo Daya,Omben,1.52,6,15,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+440,Jrangoan,Omben,3.38,5,17,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+441,Angsokah,Omben,4.37,2,14,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+442,Rapalaok,Omben,6.65,1,14,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+443,Rongdalem,Omben,8.55,4,17,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+444,Pandan,Omben,10.56,4,17,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+445,Rapa Daya,Omben,4.76,2,16,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+446,Karang Gayam,Omben,11.54,6,20,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+447,Pangarengan,Pangarengan,4.58,2,11,0,1,Darat,Aspal/Beton,1,Ada,1,4,2.000,5,0,9.539
+448,Apaaan,Pangarengan,6.94,1,9,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+449,Gulbung,Pangarengan,8.65,3,7,0,0,Darat,Aspal/Beton,2,Tidak Ada,0,0,0,0,0,0
+450,Penyerangan,Pangarengan,5.18,4,9,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
+451,Pacanggaan,Pangarengan,3.19,4,13,0,0,Darat,Aspal/Beton,1,Tidak Ada,0,0,0,0,0,0
+452,Ragung,Pangarengan,13.59,5,15,0,0,Darat,Aspal/Beton,0,Tidak Ada,0,0,0,0,0,0
